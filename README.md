@@ -6,7 +6,6 @@ Predicting Customer Lifetime Value (CLV) is one of the most mathematically compl
 
 This project demonstrates a production-ready, universal behavioural engine. By utilising a **Two-Stage XGBoost Hurdle Model** and rigorous mathematical regularisation, this pipeline identifies high-value customers and forecasts 90-day spending while intelligently filtering out the noise of extreme outliers.
 
----
 
 ## 🏗️ Architecture & Key Visualizations
 The pipeline is built purely on universal e-commerce purchasing behaviours (RFM, payment preferences, device type, and engagement metrics), making it a plug-and-play architecture for any transactional dataset.
@@ -28,7 +27,6 @@ To prevent "Mega-Whales" (the top 10% of spenders) from completely destroying th
 
 <img width="714" height="731" alt="6" src="https://github.com/user-attachments/assets/49b04752-8e42-464b-bc1d-227af70e0690" />
 
----
 
 ## 📊 Final Diagnostic Report
 The results below reflect the pipeline's performance on the 90% core customer base. By managing outliers mathematically, these metrics present a realistic view of how the model performs on everyday shoppers:
@@ -39,7 +37,6 @@ The results below reflect the pipeline's performance on the 90% core customer ba
 * **Regression Median Error (MedAE):** 385.05 TL
 * **Regression Average Error (MAE):** 755.81 TL
 
----
 
 ## 💡 Strategic Insights & Business Recommendations
 Through rigorous error analysis and mathematical regularisation, this project uncovered several critical business realities:
@@ -50,7 +47,6 @@ Through rigorous error analysis and mathematical regularisation, this project un
 
 *This pipeline is fully built, leak-proof, and completely ready to ingest high-signal data the moment it becomes available.*
 
----
 
 ## 🛠️ How to Use This Template
 * **Data Ingestion:** Swap in your own e-commerce dataset in Step 2.
