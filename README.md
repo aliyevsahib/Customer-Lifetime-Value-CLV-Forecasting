@@ -27,13 +27,11 @@ To prevent "Mega-Whales" (the top 10% of spenders) from completely destroying th
 📊 Final Diagnostic Report
 The results below reflect the pipeline's performance on the 90% core customer base. By managing outliers mathematically, these metrics present a realistic view of how the model performs on everyday shoppers:
 
-<p>
-Classification Accuracy: 56.1%
-Classification Precision (Thresh: 0.465): 53.8%
-Classification Recall / Catch Rate (Thresh: 0.465): 56.6%
-Regression Median Error (MedAE): 385.05 TL
-Regression Average Error (MAE): 755.81 TL
-</p>
+* **Classification Accuracy:** 56.1%
+* **Classification Precision (Thresh: 0.465):** 53.8%
+* **Classification Recall / Catch Rate (Thresh: 0.465):** 56.6%
+* **Regression Median Error (MedAE):** 385.05 TL
+* **Regression Average Error (MAE):** 755.81 TL
 
 💡 Strategic Insights & Business Recommendations
 Through rigorous error analysis and mathematical regularisation, this project uncovered several critical business realities:
